@@ -1,2 +1,3 @@
 # Explosum
-Unity bomberman school project
+
+Unity 2D Bomberman game for a school project.
